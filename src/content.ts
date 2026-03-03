@@ -116,7 +116,7 @@ references: {
     
     contact: {
       title: 'Kontakt',
-      intro: 'Kontaktieren Sie uns gerne direkt per E-Mail, Telefon oder über LinkedIn für einen ersten Austausch.',
+      intro: 'Kontaktieren Sie uns gerne direkt per E-Mail oder Telefon für einen ersten Austausch.',
       name: 'Name',
       email: 'E-Mail',
       message: 'Nachricht',
@@ -319,7 +319,7 @@ references: {
     },
     contact: {
       title: 'Contact',
-      intro: 'Looking for an experienced partner for your SAP PLM project? Feel free to contact us directly via email, phone, or LinkedIn.',
+      intro: 'Looking for an experienced partner for your SAP PLM project? Feel free to contact us directly via email or phone.',
       name: 'Name',
       email: 'Email',
       message: 'Message',
