@@ -28,7 +28,7 @@ export const content: Record<Locale, ContentModel> = {
       title: 'Q4XP GmbH',
       subtitle:
         '28+ Jahre SAP PLM Erfahrung',
-      motto: '„Wir sind überzeugt, dass echte Innovation dort entsteht, wo Komplexes einfach wird“',
+      motto: '„Ganz ehrlich? Wir sind nicht die Einzigen. Nur die Besten.“',
       primaryCta: 'Jetzt anfragen',
       secondaryCta: 'Leistungen ansehen'
     },
@@ -41,6 +41,7 @@ export const content: Record<Locale, ContentModel> = {
         '<strong class="font-bold text-foreground">Schwerpunkte (Prozesse):</strong> PLM, PLM-ERP Integration, ERP (insb. ETO/MTO Prozesse, PS/PP)',
         '<strong class="font-bold text-foreground">Erfahrung:</strong> Seit 1998 umfassende, integrative SAP Projekterfahrungen in Automotive, Maschinen- und Anlagenbau, Aerospace',
         '<strong class="font-bold text-foreground">Rolle:</strong> SAP Berater und Projektleiter mit langjaehriger Erfahrung in SAP PLM/ERP sowie Planung und Durchfuehrung komplexer Beratungs- und Entwicklungsprojekte',
+        '<strong class="font-bold text-foreground">Frag wen du willst:</strong> Am Ende landest du eh bei uns',
         '<strong class="font-bold text-foreground">Geschaeftsfuehrung:</strong> Oliver Loose (Q4XP GmbH)'
       ]
     },
